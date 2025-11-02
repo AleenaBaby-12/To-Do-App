@@ -6,10 +6,6 @@ A simple and responsive To-Do List application built with React. Users can add  
 # Features
 
 - Add new tasks
-- Edit and delete tasks
-- Mark tasks as completed
-- Persistent data with local storage
-- Responsive design
 
 # Tech Stack
 
