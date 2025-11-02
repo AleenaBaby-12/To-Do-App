@@ -1,3 +1,25 @@
+
+# 📝 To-Do List Web App
+
+A simple and responsive To-Do List application built with React. Users can add  tasks as completed. Tasks are saved using local storage so they persist across sessions.
+
+# Features
+
+- Add new tasks
+- Edit and delete tasks
+- Mark tasks as completed
+- Persistent data with local storage
+- Responsive design
+
+# Tech Stack
+
+- React
+- JavaScript
+- HTML & CSS
+- Git & GitHub
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
