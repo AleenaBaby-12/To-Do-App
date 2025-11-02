@@ -1,7 +1,7 @@
 
 # 📝 To-Do List Web App
 
-A simple and responsive To-Do List application built with React. Users can add  tasks as completed. Tasks are saved using local storage so they persist across sessions.
+A simple To-Do List application built with React. Users can add  tasks as completed. Tasks are saved using local storage so they persist across sessions.
 
 # Features
 
